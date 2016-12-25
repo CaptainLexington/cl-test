@@ -19,4 +19,5 @@ Rather than use React, the infrastructure for which would have been very heavy f
 Thank you very much for giving me the opportunity to work on this project and give you a closer look at my coding style and philosophy.I hope you will be pleased with what I have written. Thank you for your time!
 
 Cheers,
+
 C. Warren Dale
